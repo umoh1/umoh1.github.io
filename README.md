@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CompSciLib Portfolio Workshop
 
-## Getting Started
+This portfolio workshop is hosted by CompSciLib, an edtech startup that aims to help students learn computer science in an interactive and engaging way. In this workshop, we'll be focusing on building a portfolio website using React and Chakra UI.
 
-First, run the development server:
+## Resources
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### CompSciLib Links
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [CompSciLib](https://www.compscilib.com): Computer Science Theory and Math Education (Discrete Math, Computer Organization, etc)
+- [CompSciLib Instagram](https://www.instagram.com/compscilib/): Follow us on Instagram for updates on upcoming workshops and events.
+- [CompSciLib TikTok](https://www.tiktok.com/@compscilib): Follow us on Tiktok!
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### React
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- [React Icons](https://react-icons.github.io/react-icons): A collection of popular icons for React applications.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Personal Profiles
 
-## Learn More
+- [Github](https://github.com/umoh1): Check out my Github profile for more projects and code samples.
+- [LinkedIn](https://www.linkedin.com/in/nj-umoh/): Connect with me on LinkedIn to stay in touch and learn more about my professional experience.
 
-To learn more about Next.js, take a look at the following resources:
+### Chakra UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Chakra UI Components](https://chakra-ui.com/docs/components): A library of customizable UI components for React applications.
+- [Chakra UI Fonts](https://chakra-ui.com/community/recipes/using-fonts): Learn how to use custom fonts in your Chakra UI projects.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Design
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Google Fonts](https://fonts.google.com/): A collection of free, open-source fonts that you can use in your web projects.
