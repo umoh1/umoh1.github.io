@@ -36,6 +36,7 @@ const Project = (props: {project: Project}) => {
                     <Image
                         src={props.project.image}
                         objectFit={"cover"}
+                        alt={props.project.alt}
                         maxH={"210px"}
                         h={"210px"}
                         w="full"
