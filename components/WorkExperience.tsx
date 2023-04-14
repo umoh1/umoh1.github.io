@@ -15,7 +15,8 @@ export default function WorkExperience() {
             "Developed our REST API with Java & Springboot & created our Frontend with TypeScript, Next.JS, & ChakraUI", 
             "Hosted & secured the API using AWS, leveraging DataDog for monitoring & Terraform for IAC", 
             "Working with a team of 10 employees, we’ve acquired 150,000+ unique users from over 175 countries since release"],
-            logo: "/CompSciLibLogo.png"
+            logo: "/CompSciLibLogo.png",
+            url: "https://www.compscilib.com"
         }
     ]
     

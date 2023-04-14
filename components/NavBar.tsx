@@ -57,8 +57,8 @@ export default function NavBar() {
               as={'nav'}
               spacing={4}
               display={{ base: 'none', md: 'flex' }}>
-              {Links.map( (link) => (
-                <NavLink key={link} link={link}/>
+              {Links.map( (link, index) => (
+                <NavLink key={index} link={link}/>
               ))}
             </HStack>
           </HStack>
