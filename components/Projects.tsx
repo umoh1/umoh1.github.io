@@ -77,7 +77,7 @@ export default function Projects() {
                     </Heading>
                 </Stack>
                 
-                <SimpleGrid columns={[1,1,3]} direction="column" spacing={5} width="100%" mb={5}>
+                <SimpleGrid columns={[1,1,3]} spacing={5} width="100%" mb={5}>
                     { 
                         projects.map((project, index) => (
                             <Project project={project} key={index} />

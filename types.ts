@@ -1,7 +1,7 @@
 
 export type NavBarLink = {
     label: string;
-    link: string;
+    href: string;
 }
 
 export type School = {
@@ -21,6 +21,7 @@ export type Experience = {
     skills: string[];
     bullets: string[];
     logo: string;
+    url: string;
 }
 
 export type Project = {
@@ -29,5 +30,5 @@ export type Project = {
     description: string;
     alt: string;
     techstack: string[];
-    logo: string;
+    image: string;
 }
