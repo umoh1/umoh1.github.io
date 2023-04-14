@@ -1,7 +1,7 @@
 
 export type NavBarLink = {
     label: string;
-    link: string;
+    href: string;
 }
 
 export type School = {
