@@ -17,7 +17,7 @@ import {
   Stack,
 } from '@chakra-ui/react';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
-import NavBarLink from '../types';
+import {NavBarLink} from '../types';
 
 const Links: NavBarLink[] = [{label: 'Home', href: '#'}, 
 {label: 'LinkedIn', href: 'https://www.linkedin.com/in/nj-umoh/'}, 
