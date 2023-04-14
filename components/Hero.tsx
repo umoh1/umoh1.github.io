@@ -15,7 +15,7 @@ export default function Hero() {
                 />
                 
                 <Heading fontWeight="thin" fontSize="2xl" textAlign="center">
-                    Hey! I'm NJ Umoh 
+                    Hey! I&apos;m NJ Umoh 
                 </Heading>
                 
                 <Heading id="tagline" fontSize="4xl" fontWeight="900" textAlign="center">
@@ -23,7 +23,7 @@ export default function Hero() {
                 </Heading>
                 
                 <Text id="about_us" textAlign="center">
-                     I'm a passionate FullStack Developer and DevOps Engineer based in the US. I truly enjoy the process of taking products from ideation to deployment, seeing them come to life and serving their intended purpose. 
+                     I&apos;m a passionate FullStack Developer and DevOps Engineer based in the US. I truly enjoy the process of taking products from ideation to deployment, seeing them come to life and serving their intended purpose. 
                 </Text>
                 
                 {/** TODO: Add Links */}
