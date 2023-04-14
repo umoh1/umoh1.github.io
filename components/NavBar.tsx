@@ -52,7 +52,7 @@ export default function NavBar() {
             onClick={isOpen ? onClose : onOpen}
           />
           <HStack spacing={8} alignItems={'center'}>
-            <Box>NJ Umoh</Box>
+            <Box fontWeight="bold">NJ Umoh</Box>
             <HStack
               as={'nav'}
               spacing={4}
